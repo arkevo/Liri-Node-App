@@ -24,7 +24,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](\screenshots\spotifysearch.png)
+    ![ScreenShot](https://github.com/arkevo/Liri-Node-App/raw/master/screenshots/spotifysearch.png)
 
 - - -
 
