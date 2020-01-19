@@ -1,0 +1,31 @@
+SpotifySearchSpotifySearch----------
+Song Artist: Logic
+Song name: Homicide (feat. Eminem)
+Song preview: https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg
+Album name: Confessions of a Dangerous Mind
+----------SpotifySearch----------
+Song Artist: NLE Choppa
+Song name: Matrix
+Song preview: https://open.spotify.com/track/1985nAkGJf1oOrgHCWftoN
+Album name: Cottonwood
+----------SpotifySearch----------
+Song Artist: Royal Sadness
+Song name: Up Town Funk
+Song preview: https://open.spotify.com/track/2WFSkBxs3Sabo7wEW2DQdW
+Album name: Up Town Funk
+----------SpotifySearch----------
+Song Artist: Mark Ronson
+Song name: Uptown Funk
+Song preview: https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+Album name: Uptown Special
+----------spotifysearch----------
+Song Artist: Mark Ronson
+Song name: Uptown Funk
+Song preview: https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+Album name: Uptown Special
+----------spotifysearch----------
+Song Artist: Mark Ronson
+Song name: Uptown Funk
+Song preview: https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+Album name: Uptown Special
+----------
