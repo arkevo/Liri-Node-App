@@ -18,13 +18,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 1. Open your terminal such as Bash.
 2. Navigate to the folder that contains the `liri.js` file. 
-3. Run the `potifySearch` command
+3. Run the `spotifySearch` command
     
         node liri.js spotifysearch <name of song>
     
     Output: The system will display a list of information associated with the song. It can result in multiple records. The system will also log all the results in the log.txt file. See screen-shot below:
 
-    ![Results](/screenshots/spotifysearch.PNG)
+    ![Results](\screenshots\spotifysearch.png)
 
 - - -
 
